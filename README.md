@@ -1,4 +1,3 @@
-FallingGeneratorFix
-===================
+# Moved
 
-Simple Bukkit plugin, that fixes sand and gravel duplicators
+This repo is now maintained at https://gitlab.com/blambi/FallingGeneratorFix
